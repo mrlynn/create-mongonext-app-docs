@@ -20,6 +20,7 @@
 - Deploy to [Vercel](https://vercel.com/) for best Next.js support
 - Set environment variables in your deployment dashboard
 - MongoDB Atlas must be accessible from your deployment
+- Create-MongoNext-App-Docs is deployed via GitHub Workflow to GH-PAGES
 
 ---
 
@@ -48,3 +49,4 @@ For questions or support, open an issue or email [merlynn+mongonext@gmail.com](m
 ## License
 
 This project is licensed under the MIT License.
+
