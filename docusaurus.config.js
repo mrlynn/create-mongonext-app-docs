@@ -100,14 +100,15 @@ const config = {
           {
             title: 'Community',
             items: [
-              { label: 'GitHub Issues', href: 'https://github.com/yourusername/mongonext/issues' },
+              { label: 'GitHub Issues', href: 'https://github.com/mrlynn/create-mongonext-app/issues' },
             ],
           },
           {
             title: 'More',
             items: [
               { label: 'Blog', to: '/blog' },
-              { label: 'GitHub', href: 'https://github.com/yourusername/mongonext' },
+              { label: 'GitHub (docs)', href: 'https://github.com/mrlynn/create-mongonext-app-docs' },
+              { label: 'GitHub (lib)', href: 'https://github.com/mrlynn/create-mongonext-app' },
             ],
           },
         ],
