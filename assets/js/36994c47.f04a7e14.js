@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcreate_mongonext_app_docs=self.webpackChunkcreate_mongonext_app_docs||[]).push([[9858],{5516:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

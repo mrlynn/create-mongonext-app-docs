@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcreate_mongonext_app_docs=self.webpackChunkcreate_mongonext_app_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
