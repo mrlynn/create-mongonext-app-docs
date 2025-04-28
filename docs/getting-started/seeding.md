@@ -14,19 +14,19 @@ MongoNext includes a CLI command to quickly populate your MongoDB Atlas database
 
 1. **Run the seed command:**
    ```bash
-   npm run seed
+   create-mongonext-app seed
    ```
    You will be prompted for your MongoDB Atlas connection URI.
 
 2. **(Optional) Clear existing data before seeding:**
    ```bash
-   npm run seed -- --clear
+   create-mongonext-app seed -- --clear
    ```
    This will delete all existing documents in the `categories`, `products`, `blogposts`, and `ragdocuments` collections before inserting demo data.
 
 3. **(Optional) Provide the URI as a flag:**
    ```bash
-   npm run seed -- --uri="your_mongodb_atlas_connection_string"
+   create-mongonext-app seed -- --uri="your_mongodb_atlas_connection_string"
    ```
 
 ---
