@@ -1,0 +1,1 @@
+(self.webpackChunkcreate_mongonext_app_docs=self.webpackChunkcreate_mongonext_app_docs||[]).push([[5741],{5741:()=>{}}]);

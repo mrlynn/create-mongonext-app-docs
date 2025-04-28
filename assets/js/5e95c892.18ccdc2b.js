@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcreate_mongonext_app_docs=self.webpackChunkcreate_mongonext_app_docs||[]).push([[9647],{8122:(e,s,r)=>{r.r(s),r.d(s,{default:()=>u});r(6540);var a=r(4164),c=r(1082),n=r(204),t=r(2831),o=r(5641),p=r(4848);function u(e){return(0,p.jsx)(c.e3,{className:(0,a.A)(n.G.wrapper.docsPages),children:(0,p.jsx)(o.A,{children:(0,t.v)(e.route.routes)})})}}}]);
