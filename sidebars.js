@@ -30,6 +30,7 @@ const sidebars = {
         'getting-started/quickstart',
         'getting-started/installation',
         'getting-started/environment-setup',
+        'getting-started/seeding', 
       ],
     },
     {
