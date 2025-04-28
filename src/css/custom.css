@@ -42,3 +42,9 @@
   --ifm-color-secondary: #bbb;
   --docusaurus-highlighted-code-line-bg: #222;
 }
+
+/* Ensure navbar is visible in dark mode */
+html[data-theme='dark'] .navbar {
+  background-color: #18181b !important;
+  color: #fff;
+}
